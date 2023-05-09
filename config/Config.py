@@ -73,7 +73,7 @@ class Config(object):
 		self.step_size = 2        #descrease lr for every * epoch
 		self.alpha = 1.0
         
-		self.train_file_size = 3051    #远程监督训练语料是11
+		self.train_file_size = 3052    #远程监督训练语料是11
 		self.test_file_size = 997
 		self.max_num = 5
 
