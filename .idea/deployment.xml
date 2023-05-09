@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@222.187.226.110:50914">
+    <serverData>
+      <paths name="AutoDL">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Copy of project-level server 'Server win10'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ProgramData" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Server win10">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ProgramData" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="administrator@101.132.103.171:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@222.187.226.110:50914">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/project" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:29120">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-42.seetacloud.com:59735">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-tmp/project" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
