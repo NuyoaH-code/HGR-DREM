@@ -15,6 +15,8 @@
 First you should get pretrained Bert_base model from [huggingface](https://github.com/huggingface/transformers) and put it into `./bert/bert-base-uncased/`. <br>
 Before running our code you need to obtain the DocRED dataset from the author of the dataset, [Here](https://github.com/thunlp/DocRED).<br>
 After downing DocRED, you can use `gen_data_extend_graph.py` to preprocess data for Glove-HDR-DREM and use `gen_bert_data_extend_graph.py` to preprocess data for BERT-HDR-DREM. Finally, processed data will be saved into `./prepro_data` and `./prepro_data_bert` respectively.<br> 
+For the CDR, you can obtain it from https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/.
+For the GDA, you can obtain it from https://bitbucket.org/alexwuhkucs/gda-extraction/src/master/.
 # Run code<br>
 `train.py` used to start training<br>
 `test.py` used to evaluation model's performance on Dev or Test set.<br>
